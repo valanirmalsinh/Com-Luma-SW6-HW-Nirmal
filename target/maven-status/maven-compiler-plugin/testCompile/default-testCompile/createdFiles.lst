@@ -1,0 +1,7 @@
+com\magento\runner\RegressionTestRunner.class
+com\magento\Hooks.class
+com\magento\runner\SanityTestRunner.class
+com\magento\steps\WomenTestSteps.class
+com\magento\steps\GearTestSteps.class
+com\magento\steps\MenTestSteps.class
+com\magento\runner\SmokeTestRunner.class
